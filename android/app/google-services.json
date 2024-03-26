@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206043122284",
+    "firebase_url": "https://artly-83450-default-rtdb.firebaseio.com",
+    "project_id": "artly-83450",
+    "storage_bucket": "artly-83450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206043122284:android:005938b156e9e5682e6649",
+        "android_client_info": {
+          "package_name": "com.artly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206043122284-ajjs2bf99f9diu3cftsda55v4lo7d940.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artly",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "206043122284-kvql6c6l2c24uap62fq24ei2se30nf3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmEj08_en0aYkoYWkAEzYKaINoUuWa7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206043122284-kvql6c6l2c24uap62fq24ei2se30nf3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
